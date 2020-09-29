@@ -9,12 +9,12 @@ li {
 .header {
   background-color: #26d0c9;
   color: #fff;
-  height: 100px;
+  height: 90px;
 }
 
 .header-logo {
   float: left;
-  font-size: 70px;
+  font-size: 50px;
   padding: 20px 40px;
 }
  
