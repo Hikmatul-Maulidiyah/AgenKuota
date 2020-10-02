@@ -9,7 +9,6 @@ li {
 .header {
   background-color: linier-gradient(to right, #960083, #ec1063;
   color: #fff;
-  padding: 40px;
   height: 90px;
   border-bottom: 5px solid #ec1063;
 }
