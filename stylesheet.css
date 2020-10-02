@@ -7,10 +7,9 @@ li {
 }
 
 .header {
-  background-color: linier-gradient(to right, #960083, #ec1063;
+  background-color: #26d0c9;
   color: #fff;
   height: 90px;
-  border-bottom: 5px solid #ec1063;
 }
 
 .header-logo {
