@@ -27,7 +27,7 @@ li {
 }
 
 .main {
-  background-image: "https://raw.githubusercontent.com/Hikmatul-Maulidiyah/AgenKuota/master/gambar%201.jpg";
+  background-image: url('https://raw.githubusercontent.com/Hikmatul-Maulidiyah/AgenKuota/master/gambar%201.jpg');
   padding: 100px 80px;
 }
 
