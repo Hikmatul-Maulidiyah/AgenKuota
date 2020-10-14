@@ -33,14 +33,17 @@ li {
 
 .copy-container h1 {
   font-size: 80px;
+  text-align: center;
 }
 
 .copy-container h2 {
   font-size: 40px;
+  text-align: center;
 }
 
 .copy-container span {
   color: #ff4a4a;
+  text-align: center;
 }
 
 .contents {
@@ -63,6 +66,7 @@ li {
 .contents-item p {
   font-size: 20px;
   margin-top: 30px;
+  text-align: center;
 }
 
 .contact-form {
