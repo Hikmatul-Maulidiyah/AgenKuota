@@ -7,7 +7,7 @@ li {
 }
 
 .header {
-  background-color: #ec1063;
+  background: linear-gradient(to right, #960083, #ec1063);
   color: #fff;
   height: 90px;
 }
