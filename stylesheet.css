@@ -27,6 +27,10 @@ li {
   padding: 33px 40px;
 }
 
+.header-list active {
+  color: #960083;
+  font-weight: bold;
+
 .main {
   background-image: url("https://raw.githubusercontent.com/Hikmatul-Maulidiyah/AgenKuota/master/wallpaper.jpg");
   padding: 100px 80px;
