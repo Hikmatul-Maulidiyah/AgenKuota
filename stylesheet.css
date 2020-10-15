@@ -10,11 +10,12 @@ li {
   background: linear-gradient(to right, #960083, #ec1063);
   color: #fff;
   height: 90px;
+  border-bottom: 3px solid #ec1063;
 }
 
 .header-logo {
   float: left;
-  font-size: 36px;
+  font-size: 33px;
   padding: 20px 40px;
 }
 
